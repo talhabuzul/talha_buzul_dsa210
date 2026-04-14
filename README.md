@@ -7,7 +7,9 @@ Analyzing and Predicting Student Academic Performance
 This project focuses on analyzing the factors that affect student academic performance and predicting student success levels using machine learning methods. The project is developed as part of the DSA 210 Introduction to Data Science course.
 
 ## Dataset
-The main dataset used in this project is `xAPI-Edu-Data.csv`, which includes student demographic, behavioral, and academic performance information. An additional dataset, `StudentsPerformance.csv`, is also included in the repository for reference and comparison purposes.
+The main dataset used in this project is `xAPI-Edu-Data.csv`, which includes student demographic, behavioral, and academic performance information. This dataset is used in the current analysis and forms the basis of the exploratory data analysis and hypothesis testing stages.
+
+An additional dataset, `StudentsPerformance.csv`, is also included in the repository for possible future reference or comparison, but it has not been used in the current notebook.
 
 ## Project Structure
 - `data/raw/` : raw dataset files
@@ -19,7 +21,7 @@ The main dataset used in this project is `xAPI-Edu-Data.csv`, which includes stu
 ## Current Progress
 - GitHub repository created
 - Project proposal completed
-- Dataset collected and uploaded
+- Main dataset collected and uploaded
 - Data cleaning completed
 - Exploratory data analysis completed
 - Hypothesis testing completed
