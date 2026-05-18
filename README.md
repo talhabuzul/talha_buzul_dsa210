@@ -28,6 +28,8 @@ An additional dataset, `StudentsPerformance.csv`, is also included in the reposi
 - Machine learning models applied
 - Model comparison completed
 - Feature importance analysis completed
+- Final report completed
+- Final code and documentation organized
 
 ## Machine Learning Stage Summary
 In the machine learning stage, the dataset was prepared for classification by encoding categorical variables and splitting the data into training and test sets. Three machine learning models were applied: Logistic Regression, Decision Tree, and Random Forest.
@@ -35,4 +37,5 @@ In the machine learning stage, the dataset was prepared for classification by en
 The results showed that Random Forest achieved the best performance among the tested models, with the highest accuracy and weighted F1 score. This suggests that student academic performance can be predicted with a good level of success using the available behavioral and academic features.
 
 ## Next Step
-The next stage of the project is to finalize the analysis, summarize the findings, and prepare the final report and code submission.
+## Status
+The project has been completed and prepared for final submission.
